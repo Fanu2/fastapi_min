@@ -1,8 +1,4 @@
-app = "my-fastapi-app"
-
-[build]
-  builder = "paketobuildpacks/builder:base" # Fly detects Dockerfile automatically if exists
+app = "fastapi-myfirst-app"
 
 [env]
   PORT = "8080"
-
