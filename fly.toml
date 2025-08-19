@@ -1,4 +1,0 @@
-app = "fastapi-myfirst-app"
-
-[env]
-  PORT = "8080"
